@@ -1,4 +1,4 @@
-package GUI;
+package Project.src.GUI;
 
 import javax.swing.*;
 import java.awt.event.*;

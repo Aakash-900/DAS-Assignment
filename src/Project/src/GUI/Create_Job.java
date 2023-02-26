@@ -1,4 +1,4 @@
-package GUI;
+package Project.src.GUI;
 
 import java.awt.Font;
 import java.awt.GridBagConstraints;
